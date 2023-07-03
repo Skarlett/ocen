@@ -19,11 +19,11 @@
     "ocen": {
       "flake": false,
       "locked": {
-        "lastModified": 1688324846,
-        "narHash": "sha256-w5GipUZ55sWLYzTDznVreK/H8AkQT6Zy0RIL0nIzIOE=",
+        "lastModified": 1688338794,
+        "narHash": "sha256-Q3YOMRm1rk2HsDg6UUSSjuQSFpliiOhvy66tuLVkyeY=",
         "owner": "ocen-lang",
         "repo": "ocen",
-        "rev": "447766dd9f9f0132ce13bd57d5158de55bf05c00",
+        "rev": "8a8cc15d6573426fb832853becb88b33ceb0fdaa",
         "type": "github"
       },
       "original": {
